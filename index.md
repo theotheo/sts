@@ -7,11 +7,12 @@
 
 # Сайты
 - [ИСУ ИТМО](https://isu.ifmo.ru/)
-- [Sakai ЕУ](https://sakai.eu.spb.ru/) 
+- [Sakai ЕУ](https://sakai.eu.spb.ru/)/[Адрес курса в Sakai@EU](https://sakai.eu.spb.ru/portal/site/COMP_500_f20)
 - [Библиотека ЕУ](http://wlib.eu.spb.ru/)
 - [Ссылки на ресурсы от ЕУ](https://eusp.org/library/electronic-resources)
 
-## ЕУ [vk](https://vk.com/eusporg)
+## [ЕУ](https://eusp.org) [vk](https://vk.com/eusporg)/[fb](https://www.facebook.com/eusp.org/)/[yt](https://www.youtube.com/user/EUSPchannel/)/[tw](https://twitter.com/EUSP_1994)
+### Факультеты
 - [Антропология](https://eusp.org/index.php/anthropology/about) [vk](https://vk.com/anthrop)/[fb](https://www.facebook.com/anthropeusp)
 - [История](https://eusp.org/index.php/history/about) [vk](https://vk.com/euspb_history)/[fb](https://www.facebook.com/historyeusp)
 - [История искусств](https://eusp.org/art-history/about) [vk](https://vk.com/eu_art_history)/[fb](https://www.facebook.com/arthistoryEU)
@@ -21,6 +22,14 @@
 - [Экономика](https://eusp.org/econ/about) [vk](https://vk.com/eusp_econ)/[fb](https://www.facebook.com/econ.eusp)
 - [Международные отношения](https://int.eusp.org) [fb](https://www.facebook.com/eusp.international/)
 
+## Поддержка
+- технической поддержки ЕУ: noc@eu.spb.ru. (Каб. 205 Тел. 386-76-24)
+- технической поддержки Sakai: support.sakai@eu.spb.ru
+- преподавателей курса «Информационные технологии»: omikhaylova@eu.spb.ru , inkin@eu.spb.ru
+
+
 ## STS
 - [Список STS программ](http://stsnext20.org/stsworld/sts-programs/)
+
+
 
