@@ -22,6 +22,8 @@
 - [Экономика](https://eusp.org/econ/about) [vk](https://vk.com/eusp_econ)/[fb](https://www.facebook.com/econ.eusp)
 - [Международные отношения](https://int.eusp.org) [fb](https://www.facebook.com/eusp.international/)
 
+- [IMARES](https://eusp.org/en/international/academics/imares/courses)
+
 ## Поддержка
 - технической поддержки ЕУ: noc@eu.spb.ru. (Каб. 205 Тел. 386-76-24)
 - технической поддержки Sakai: support.sakai@eu.spb.ru
