@@ -26,6 +26,7 @@
 - технической поддержки ЕУ: noc@eu.spb.ru. (Каб. 205 Тел. 386-76-24)
 - технической поддержки Sakai: support.sakai@eu.spb.ru
 - преподавателей курса «Информационные технологии»: omikhaylova@eu.spb.ru , inkin@eu.spb.ru
+- студсоюз: @stikhonov
 
 
 ## STS
