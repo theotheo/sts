@@ -24,6 +24,10 @@
 
 - [IMARES](https://eusp.org/en/international/academics/imares/courses)
 
+## ИТМО
+- академическая мобильность https://vk.com/itmo_exchange 
+- [лаборатория академического письма](https://awl.itmo.ru/ru/) обещают помочь с написанием статей на английском
+
 ## Поддержка
 - технической поддержки ЕУ: noc@eu.spb.ru. (Каб. 205 Тел. 386-76-24)
 - технической поддержки Sakai: support.sakai@eu.spb.ru
