@@ -46,7 +46,8 @@
 - [Cornell](https://sts.cornell.edu)
 - [Harvard](http://sts.hks.harvard.edu/)
 - [Лаборатория исследований науки и технологий ВШЭ](https://lsts.hse.ru)
-- 
+- [МГТУ им. Баумана](https://vk.com/sociology.bmstu)
+- [ТГУ](http://stsrussia.ru/program/passport/)
 
 ## Журналы, блоги, серии
 - [Управление наукой и наукометрия](http://sie-journal.ru/)
