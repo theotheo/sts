@@ -33,6 +33,7 @@
 - технической поддержки Sakai: support.sakai@eu.spb.ru
 - преподавателей курса «Информационные технологии»: omikhaylova@eu.spb.ru , inkin@eu.spb.ru
 - студсоюз: @stikhonov
+- [студенческий офис ИТМО](https://student.itmo.ru/ru/about_studoffice/)
 
 
 ## STS
