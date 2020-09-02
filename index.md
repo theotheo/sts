@@ -12,6 +12,10 @@
 - [Ссылки на ресурсы от ЕУ](https://eusp.org/library/electronic-resources)
 
 ## [ЕУ](https://eusp.org) [vk](https://vk.com/eusporg)/[fb](https://www.facebook.com/eusp.org/)/[yt](https://www.youtube.com/user/EUSPchannel/)/[tw](https://twitter.com/EUSP_1994)
+
+- [IMARES](https://eusp.org/en/international/academics/imares/courses)
+- [STS-центр](https://eusp.org/index.php/sts/about) [vk](https://vk.com/stseusp)/[fb](https://www.facebook.com/STSCenterEUSP)/[blog](https://medium.com/stseusp)
+
 ### Факультеты
 - [Антропология](https://eusp.org/index.php/anthropology/about) [vk](https://vk.com/anthrop)/[fb](https://www.facebook.com/anthropeusp)
 - [История](https://eusp.org/index.php/history/about) [vk](https://vk.com/euspb_history)/[fb](https://www.facebook.com/historyeusp)
@@ -22,17 +26,14 @@
 - [Экономика](https://eusp.org/econ/about) [vk](https://vk.com/eusp_econ)/[fb](https://www.facebook.com/econ.eusp)
 - [Международные отношения](https://int.eusp.org) [fb](https://www.facebook.com/eusp.international/)
 
-- [IMARES](https://eusp.org/en/international/academics/imares/courses)
-- [STS-центр](https://eusp.org/index.php/sts/about) [vk](https://vk.com/stseusp)/[fb](https://www.facebook.com/STSCenterEUSP)/[blog](https://medium.com/stseusp)
-
 ## ИТМО
-- академическая мобильность https://vk.com/itmo_exchange 
-- [лаборатория академического письма](https://awl.itmo.ru/ru/) обещают помочь с написанием статей на английском
+- академическая мобильность [vk](https://vk.com/itmo_exchange) 
+- [лаборатория академического письма](https://awl.itmo.ru/ru/) (обещают помочь с написанием статей на английском)
 
 ## Поддержка
 - технической поддержки ЕУ: noc@eu.spb.ru. (Каб. 205 Тел. 386-76-24)
 - технической поддержки Sakai: support.sakai@eu.spb.ru
-- преподавателей курса «Информационные технологии»: omikhaylova@eu.spb.ru , inkin@eu.spb.ru
+- преподавателей курса «Информационные технологии»: omikhaylova@eu.spb.ru, inkin@eu.spb.ru
 - студсоюз: @stikhonov
 - [студенческий офис ИТМО](https://student.itmo.ru/ru/about_studoffice/)
 
