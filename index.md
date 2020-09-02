@@ -42,6 +42,18 @@
 - [STS is](https://vk.com/stsis)
 - [wrongtech](https://t.me/wrongtech)
 - [Список STS программ](http://stsnext20.org/stsworld/sts-programs/)
+- [MIT](https://sts-program.mit.edu)
+- [Cornell](https://sts.cornell.edu)
+- [Harvard](http://sts.hks.harvard.edu/)
+
+## Журналы, блоги, серии
+- [Управление наукой и наукометрия](http://sie-journal.ru/)
+- [Логос](http://www.logosjournal.ru)
+- [Социология власти](http://www.socofpower.ranepa.ru/ru/)
+- [Эпистемология и философия науки](https://journal.iph.ras.ru)
+- серия Palgrave Studies in the History of Science and Technology
+- [University of Vienna Blog](https://blog.sts.univie.ac.at)
+
 
 
 
