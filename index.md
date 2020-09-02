@@ -23,6 +23,7 @@
 - [Международные отношения](https://int.eusp.org) [fb](https://www.facebook.com/eusp.international/)
 
 - [IMARES](https://eusp.org/en/international/academics/imares/courses)
+- [STS-центр](https://eusp.org/index.php/sts/about) [vk](https://vk.com/stseusp)/[fb](https://www.facebook.com/STSCenterEUSP)/[blog](https://medium.com/stseusp)
 
 ## ИТМО
 - академическая мобильность https://vk.com/itmo_exchange 
@@ -37,6 +38,8 @@
 
 
 ## STS
+- [STS is](https://vk.com/stsis)
+- [wrongtech](https://t.me/wrongtech)
 - [Список STS программ](http://stsnext20.org/stsworld/sts-programs/)
 
 
