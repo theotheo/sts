@@ -45,12 +45,15 @@
 - [MIT](https://sts-program.mit.edu)
 - [Cornell](https://sts.cornell.edu)
 - [Harvard](http://sts.hks.harvard.edu/)
+- [Лаборатория исследований науки и технологий ВШЭ](https://lsts.hse.ru)
+- 
 
 ## Журналы, блоги, серии
 - [Управление наукой и наукометрия](http://sie-journal.ru/)
 - [Логос](http://www.logosjournal.ru)
 - [Социология власти](http://www.socofpower.ranepa.ru/ru/)
 - [Эпистемология и философия науки](https://journal.iph.ras.ru)
+- [Форсайт](https://foresight-journal.hse.ru)
 - серия Palgrave Studies in the History of Science and Technology
 - [University of Vienna Blog](https://blog.sts.univie.ac.at)
 
