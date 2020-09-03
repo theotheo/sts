@@ -51,6 +51,9 @@
 - [EASST](https://easst.net)
 
 ## Журналы, блоги, серии
+- [Social Studies of Science](https://journals.sagepub.com/home/sss)
+- [Science & Technology Studies](https://sciencetechnologystudies.journal.fi)
+- [Philosophy of Science](https://journal.philsci.org)
 - [Управление наукой и наукометрия](http://sie-journal.ru/)
 - [Логос](http://www.logosjournal.ru)
 - [Социология власти](http://www.socofpower.ranepa.ru/ru/)
@@ -60,6 +63,7 @@
 - [University of Vienna Blog](https://blog.sts.univie.ac.at)
 - Стерлингов: [Научная политика в цифрах](http://isterligov.blogspot.com/)/[Evidence-based science policy?](https://t.me/science_policy)
 - [Musings about librarianship](http://musingsaboutlibrarianship.blogspot.com/)
+
 
 
 
