@@ -48,6 +48,7 @@
 - [Лаборатория исследований науки и технологий ВШЭ](https://lsts.hse.ru)
 - [МГТУ им. Баумана](https://vk.com/sociology.bmstu)
 - [ТГУ](http://stsrussia.ru/program/passport/)
+- [EASST](https://easst.net)
 
 ## Журналы, блоги, серии
 - [Управление наукой и наукометрия](http://sie-journal.ru/)
@@ -57,7 +58,8 @@
 - [Форсайт](https://foresight-journal.hse.ru)
 - серия Palgrave Studies in the History of Science and Technology
 - [University of Vienna Blog](https://blog.sts.univie.ac.at)
-
+- Стерлингов: [Научная политика в цифрах](http://isterligov.blogspot.com/)/[Evidence-based science policy?](https://t.me/science_policy)
+- [Musings about librarianship](http://musingsaboutlibrarianship.blogspot.com/)
 
 
 
