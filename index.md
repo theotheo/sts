@@ -54,6 +54,8 @@
 - [Social Studies of Science](https://journals.sagepub.com/home/sss)
 - [Science & Technology Studies](https://sciencetechnologystudies.journal.fi)
 - [Philosophy of Science](https://journal.philsci.org)
+- [Science as Culture](https://www.tandfonline.com/toc/csac20/)
+- [History of the Human Sciences](https://journals.sagepub.com/home/hhs)
 - [Управление наукой и наукометрия](http://sie-journal.ru/)
 - [Логос](http://www.logosjournal.ru)
 - [Социология власти](http://www.socofpower.ranepa.ru/ru/)
