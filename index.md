@@ -58,6 +58,7 @@
 - [Philosophy of Science](https://journal.philsci.org)
 - [Science as Culture](https://www.tandfonline.com/toc/csac20/)
 - [History of the Human Sciences](https://journals.sagepub.com/home/hhs)
+- [Minerva](https://www.springer.com/journal/11024)
 - [Управление наукой и наукометрия](http://sie-journal.ru/)
 - [Логос](http://www.logosjournal.ru)
 - [Социология власти](http://www.socofpower.ranepa.ru/ru/)
